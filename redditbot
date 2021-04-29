@@ -1,0 +1,3 @@
+echo "Tides' reddit account creator "
+cd ~/create
+node index.js
