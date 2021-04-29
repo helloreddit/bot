@@ -1,4 +1,4 @@
 echo "Tides' reddit account creator "
 cd ~/create
-node index.js
-clear
+watch -n 540 node index.js
+
